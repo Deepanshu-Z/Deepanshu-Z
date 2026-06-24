@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I am a skilled developer with a strong foundation in various programming languages and frameworks. Through self-directed learning, I have acquired proficiency in JAVA, Node.js, JavaScript, TypeScript, and Python. My experience extends to working with popular frameworks such as Node.js/Express, FastAPI, Flask, Django, React, and Next.js.</h1>
+<h2 align="center">Hi 👋, I'm I am a skilled developer with a strong foundation in various programming languages and frameworks. Through self-directed learning, I have acquired proficiency in JAVA, Node.js, JavaScript, TypeScript, and Python. My experience extends to working with popular frameworks such as Node.js/Express, FastAPI, Flask, Django, React, and Next.js.</h2>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu-z&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu-z" /> </p>
